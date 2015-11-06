@@ -1,0 +1,16 @@
+{
+  "name": "mrazvan92/PHPSpark",
+  "description": "This Package allows the use Spark functionality on PHP.",
+  "authors": [
+    {
+      "name": "Razvan Moldovan",
+      "email": "m.razvan92@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+  }
+}
